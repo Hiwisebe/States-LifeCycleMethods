@@ -7,4 +7,3 @@ class LoggedOutPage extends Component {
 }
 
 export default LoggedOutPage;
-// hi my name is hiwot
